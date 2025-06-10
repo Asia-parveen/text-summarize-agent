@@ -1,0 +1,18 @@
+ Volume in drive F is New Volume
+ Volume Serial Number is 7895-34EF
+
+ Directory of F:\python-practice
+
+10/06/2025  06:40 pm    <DIR>          .
+10/06/2025  05:18 pm                56 .env
+10/06/2025  04:15 pm               109 .gitignore
+10/06/2025  04:15 pm                 5 .python-version
+10/06/2025  06:19 pm    <DIR>          .venv
+10/06/2025  06:40 pm                 0 filelist.txt
+10/06/2025  04:16 pm               433 pyproject.toml
+10/06/2025  04:15 pm                 0 README.md
+10/06/2025  06:13 pm                40 requirements.txt
+10/06/2025  04:15 pm    <DIR>          src
+10/06/2025  04:16 pm            43,462 uv.lock
+               8 File(s)         44,105 bytes
+               3 Dir(s)  134,360,911,872 bytes free
